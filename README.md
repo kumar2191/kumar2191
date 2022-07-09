@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kumar M</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar2191&label=Profile%20views&color=0e75b6&style=flat" alt="kumar2191" /> </p>
 
